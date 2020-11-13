@@ -9,6 +9,6 @@
         "class": "Novosga\\Composer\\ModuleInstallerPlugin"
     },
     "require": {
-        "composer-plugin-api": "^1.0"
+        "composer-plugin-api": "^1.0|^2.0"
     }
 }
